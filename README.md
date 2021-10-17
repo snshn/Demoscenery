@@ -5,7 +5,7 @@ Collection of containerized demoscenes.
 
 ## About
 
-Demoscene is *realtime* underground digital art.
+Demoscene is **realtime** underground digital art.
 
 #### Problems:
  - Video recordings of demoscenes don't match quality of the original — low in resolution and frame rate, lossy audio codecs, fixed aspect ratio; not to mention demoscenes weren't meant to be possible to pause or skip through.
